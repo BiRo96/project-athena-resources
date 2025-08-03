@@ -6,8 +6,8 @@
     "format": "video",
     "source": "10-es lista",
     "language": "hu",
-    "record-date": "2019-10-18",
-    "source-date": "2025-08-02"
+    "recordDate": "2019-10-18",
+    "sourceDate": "2025-08-02"
   },
   {
     "title": "Myers–Briggs-típuselmélet (16personalities) teszt",
@@ -16,6 +16,6 @@
     "format": "website",
     "source": "16personalities",
     "language": "hu",
-    "record-date": "2025-08-02"
+    "recordDate": "2025-08-02"
   }
 ]

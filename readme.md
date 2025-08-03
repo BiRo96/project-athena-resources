@@ -15,8 +15,8 @@ Jelenlegi formátum:
         "format": "video",
         "source": "10-es lista",
         "language": "hu",
-        "record-date": "2019-10-18",
-        "source-date": "2025-08-02"
+        "recordDate": "2019-10-18",
+        "sourceDate": "2025-08-02"
     },
 ]
 ```
@@ -34,8 +34,8 @@ Jelenlegi formátum:
 /* forrás megnevezése, youtube csatorna neve, weboldal neve */
 "language": "hu",
 /* próbáljuk meg tartani a ISO 639-1 nyelvkódok használatát a könnyű azonosítás érdekében */
-"record-date": "2019-10-18",
+"recordDate": "2019-10-18",
 /* bejegyzés dáruma */
-"source-date": "2025-08-02"
+"sourceDate": "2025-08-02"
 /* opcionális (ismert adat esetén igényelt info) mikor jelent meg a forrás */
 ```
