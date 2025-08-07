@@ -33,9 +33,11 @@ Jelenlegi formátum:
 "source": "10-es lista",
 /* forrás megnevezése, youtube csatorna neve, weboldal neve */
 "language": "hu",
-/* próbáljuk meg tartani a ISO 639-1 nyelvkódok használatát a könnyű azonosítás érdekében */
+/* próbáljuk meg tartani a ISO 639-1 nyelvkódok használatát a könnyű azonosítás érdekében (angol esetében inkább használjuk az "en-us" kódot, hogy brit és amerikai zászlót vegyítve jelenítsük meg) */
 "recordDate": "2019-10-18",
 /* bejegyzés dáruma */
 "sourceDate": "2025-08-02"
 /* opcionális (ismert adat esetén igényelt info) mikor jelent meg a forrás */
 ```
+
+[ISO 639-es nyelvi kód szabvány](https://www.wikiwand.com/en/articles/List_of_ISO_639_language_codes)
