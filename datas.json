@@ -1,5 +1,35 @@
 [
   {
+    "title": "Gyorstalpaló Kezdő Animátoroknak (3. rész - Az Animáció Alapjai)",
+    "url": "https://youtu.be/18sblxmew_w",
+    "tags": ["animation", "tutorial", "animator", "youtube"],
+    "format": "video",
+    "source": "Palotás Adél",
+    "language": "hu",
+    "recordDate": "2025-08-11",
+    "sourceDate": "2025-04-12"
+  },
+  {
+    "title": "Gyorstalpaló Kezdő Animátoroknak (2. rész - Animációs Tervezés)",
+    "url": "https://youtu.be/0EoQ99oI_UQ",
+    "tags": ["animation", "tutorial", "animator", "youtube"],
+    "format": "video",
+    "source": "Palotás Adél",
+    "language": "hu",
+    "recordDate": "2025-08-11",
+    "sourceDate": "2024-11-10"
+  },
+  {
+    "title": "Gyorstalpaló Kezdő Animátoroknak (1. rész - Az Animáció Fajtái és Szoftverek)",
+    "url": "https://youtu.be/wzIYjyciq_o",
+    "tags": ["animation", "tutorial", "animator", "youtube"],
+    "format": "video",
+    "source": "Palotás Adél",
+    "language": "hu",
+    "recordDate": "2025-08-11",
+    "sourceDate": "2024-10-19"
+  },
+  {
     "title": "PHOTOSKOP - Photography. Learn Interactively",
     "url": "https://photoskop.com",
     "tags": ["photography", "education"],
